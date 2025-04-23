@@ -15,7 +15,7 @@ Kerem Yoldaş
 
 All intellectual property within this repository is **exclusively owned by the developer**.  
 Innovis VC e.V. is granted **limited, read-only access via API integration** for internal use only.  
-No ownership, distribution, or modification rights are transferred.
+No ownership, distribution, or modification rights are transferred. Not part of internship. IP belongs to the developer.
 
 ## 🧠 Project Description
 
