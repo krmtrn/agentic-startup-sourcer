@@ -17,6 +17,8 @@ All intellectual property within this repository is **exclusively owned by the d
 Innovis VC e.V. is granted **limited, read-only access via API integration** for internal use only.  
 No ownership, distribution, or modification rights are transferred. Not part of internship. IP belongs to the developer.
 
+Note: The source code is not part of any deliverables and will not be shared or transferred. Only API-based access may be granted under license.
+
 ## 🧠 Project Description
 
 This project includes:
